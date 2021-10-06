@@ -33,7 +33,7 @@ print(dates)
 
 fig = plt.figure()
 
-plt.title("Daily high temperatures, July 2018", fontsize=16)
+plt.title("Daily High Temperatures for 2018", fontsize=16)
 plt.xlabel("", fontsize=12)
 plt.ylabel("Temperature (F)", fontsize=12)
 plt.tick_params(axis="both",which="major",labelsize=12)
